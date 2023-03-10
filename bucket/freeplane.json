@@ -9,9 +9,9 @@
             "java/openjdk17"
         ]
     },
-    "url": "https://downloads.sourceforge.net/project/freeplane/freeplane%20stable/freeplane_bin-1.10.6.zip",
-    "hash": "sha1:69310b253646235a18b025e0d2a60c8dff84303e",
-    "extract_dir": "freeplane-1.10.6",
+    "url": "https://downloads.sourceforge.net/project/freeplane/freeplane%20stable/freeplane_bin-1.10.6u1.zip",
+    "hash": "sha1:E7548978A52A668D912756C16588A296365E9DBA",
+    "extract_dir": "freeplane-1.10.6u1",
     "bin": "freeplane.exe",
     "shortcuts": [
         [
